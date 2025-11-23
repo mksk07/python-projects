@@ -5,7 +5,6 @@ import random
 import collections
 
 # Data for the 2025/26 UEFA Champions League Draw
-# This single dictionary is the "source of truth" for the entire program.
 LEAGUE_TEAMS = {
     # Pot 1
     "Paris Saint-Germain": {"country": "France", "pot": 1, "opponents": []},
